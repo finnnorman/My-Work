@@ -1,0 +1,15 @@
+driver,team,finish_position,points,num_stops,strategy_sequence
+Lando Norris,McLaren,1,25.0,5,INTER→INTER→INTER→HARD→INTER
+Max Verstappen,Red Bull Racing,2,18.0,5,INTER→INTER→INTER→MEDIUM→INTER
+George Russell,Mercedes,3,15.0,5,INTER→INTER→INTER→HARD→INTER
+Andrea Kimi Antonelli,Mercedes,4,12.0,5,INTER→INTER→INTER→HARD→INTER
+Alexander Albon,Williams,5,10.0,5,INTER→INTER→INTER→MEDIUM→INTER
+Lance Stroll,Aston Martin,6,8.0,5,INTER→INTER→INTER→HARD→INTER
+Nico Hulkenberg,Kick Sauber,7,6.0,5,INTER→INTER→INTER→MEDIUM→INTER
+Charles Leclerc,Ferrari,8,4.0,5,INTER→INTER→INTER→HARD→INTER
+Oscar Piastri,McLaren,9,2.0,5,INTER→INTER→INTER→HARD→INTER
+Lewis Hamilton,Ferrari,10,1.0,5,INTER→INTER→INTER→HARD→INTER
+Pierre Gasly,Alpine,11,0.0,5,INTER→INTER→INTER→HARD→INTER
+Yuki Tsunoda,Racing Bulls,12,0.0,5,INTER→INTER→INTER→MEDIUM→INTER
+Esteban Ocon,Haas F1 Team,13,0.0,5,INTER→INTER→INTER→MEDIUM→INTER
+Oliver Bearman,Haas F1 Team,14,0.0,5,INTER→INTER→INTER→MEDIUM→INTER

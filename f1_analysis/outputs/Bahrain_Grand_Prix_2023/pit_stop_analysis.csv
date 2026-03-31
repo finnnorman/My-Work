@@ -1,0 +1,51 @@
+driver,team,stop_number,pit_lap,new_compound,pit_duration_sec,grid_position,finish_position,positions_gained
+Max Verstappen,Red Bull Racing,1,15,SOFT,24.297,1,1,0
+Max Verstappen,Red Bull Racing,2,37,HARD,24.937,1,1,0
+Sergio Perez,Red Bull Racing,1,18,SOFT,24.281,2,2,0
+Sergio Perez,Red Bull Racing,2,35,HARD,25.062,2,2,0
+Fernando Alonso,Aston Martin,1,15,HARD,25.781,5,3,2
+Fernando Alonso,Aston Martin,2,35,HARD,24.844,5,3,2
+Carlos Sainz,Ferrari,1,14,HARD,24.531,4,4,0
+Carlos Sainz,Ferrari,2,32,HARD,24.25,4,4,0
+Lewis Hamilton,Mercedes,1,13,HARD,24.655,7,5,2
+Lewis Hamilton,Mercedes,2,31,HARD,24.671,7,5,2
+Lance Stroll,Aston Martin,1,16,HARD,25.437,8,6,2
+Lance Stroll,Aston Martin,2,31,HARD,24.624,8,6,2
+George Russell,Mercedes,1,14,HARD,26.984,6,7,-1
+George Russell,Mercedes,2,32,HARD,24.39,6,7,-1
+Valtteri Bottas,Alfa Romeo,1,12,HARD,25.343,12,8,4
+Valtteri Bottas,Alfa Romeo,2,30,HARD,25.609,12,8,4
+Pierre Gasly,Alpine,1,10,HARD,25.906,20,9,11
+Pierre Gasly,Alpine,2,26,HARD,24.922,20,9,11
+Pierre Gasly,Alpine,3,41,SOFT,24.749,20,9,11
+Alexander Albon,Williams,1,12,SOFT,25.015,15,10,5
+Alexander Albon,Williams,2,27,HARD,24.89,15,10,5
+Alexander Albon,Williams,3,41,SOFT,24.5,15,10,5
+Yuki Tsunoda,AlphaTauri,1,11,HARD,25.249,14,11,3
+Yuki Tsunoda,AlphaTauri,2,27,HARD,24.39,14,11,3
+Yuki Tsunoda,AlphaTauri,3,41,SOFT,25.734,14,11,3
+Logan Sargeant,Williams,1,13,SOFT,25.594,16,12,4
+Logan Sargeant,Williams,2,31,HARD,25.687,16,12,4
+Logan Sargeant,Williams,3,41,SOFT,25.029,16,12,4
+Kevin Magnussen,Haas F1 Team,1,16,HARD,25.452,17,13,4
+Kevin Magnussen,Haas F1 Team,2,30,SOFT,25.358,17,13,4
+Kevin Magnussen,Haas F1 Team,3,41,SOFT,25.125,17,13,4
+Nyck De Vries,AlphaTauri,1,12,HARD,24.984,19,14,5
+Nyck De Vries,AlphaTauri,2,28,HARD,25.234,19,14,5
+Nico Hulkenberg,Haas F1 Team,1,12,HARD,26.077,10,15,-5
+Nico Hulkenberg,Haas F1 Team,2,27,HARD,37.765,10,15,-5
+Nico Hulkenberg,Haas F1 Team,3,41,SOFT,27.093,10,15,-5
+Guanyu Zhou,Alfa Romeo,1,13,HARD,25.797,13,16,-3
+Guanyu Zhou,Alfa Romeo,2,33,SOFT,25.359,13,16,-3
+Guanyu Zhou,Alfa Romeo,3,55,SOFT,30.124,13,16,-3
+Lando Norris,McLaren,1,11,HARD,32.749,11,17,-6
+Lando Norris,McLaren,2,18,SOFT,33.922,11,17,-6
+Lando Norris,McLaren,3,28,MEDIUM,33.483,11,17,-6
+Lando Norris,McLaren,4,38,HARD,33.234,11,17,-6
+Lando Norris,McLaren,5,48,SOFT,30.734,11,17,-6
+Lando Norris,McLaren,6,55,SOFT,31.515,11,17,-6
+Esteban Ocon,Alpine,1,13,HARD,24.984,9,18,-9
+Esteban Ocon,Alpine,2,16,HARD,41.484,9,18,-9
+Esteban Ocon,Alpine,3,33,HARD,44.499,9,18,-9
+Charles Leclerc,Ferrari,1,14,HARD,24.421,3,19,-16
+Charles Leclerc,Ferrari,2,34,HARD,24.5,3,19,-16
